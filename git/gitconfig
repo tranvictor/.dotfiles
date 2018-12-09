@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	name = Victor Tran
+	email = vu.tran54@gmail.com
